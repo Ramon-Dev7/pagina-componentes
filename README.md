@@ -1,3 +1,10 @@
+
+# Bem-vindo ao meu repositório de exercícios, Este espaço é dedicado à prática e aprimoramento das habilidades em React.js!
+# Criar componentes;
+# Importar e exportar componentes;
+# Utilizar componentes nativos do React;
+# Organizar o código da aplicação, dividindo-o em partes menores.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
